@@ -12,3 +12,6 @@ In this Ml project I have,
 5> Evaluated with metrics for Regression & Classification
 
 6> Explored the power of Support Vector Machines (SVM)
+
+
+![12b](https://github.com/sufyn/Machine-Learning/assets/97327266/6acc3cdd-e042-4d12-bc55-fb5d910263cb)
